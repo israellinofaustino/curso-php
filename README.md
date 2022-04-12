@@ -1,5 +1,5 @@
-# Curso completo de PHP7 e 8 - Em andamento
+# PHP7 e 8 - In Progress
 
 https://www.udemy.com/course/php-7-completo
 
-Meu perfil: https://www.udemy.com/user/israel-lino-faustino/
+My Profile: https://www.udemy.com/user/israel-lino-faustino/
